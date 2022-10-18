@@ -1,0 +1,16 @@
+body{
+	background-color: #f5f5f5;
+	font-family: Segoe UI;
+	padding-left: 20px;
+	font-weight: 400;
+}
+dt{
+	font-style: italic;
+}
+.text2{
+	color: #a0958c;
+}
+.text3{
+	display: inline-block;
+	color: #5043a9;
+}
